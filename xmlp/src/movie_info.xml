@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE movies SYSTEM "movies.dtd" >
+<movies>
+  <movie>
+    <code>07</code>
+    <title>Holiday - A Soldier Is Never Off Duty !</title>
+    <release-date>
+    	<day> 06 </day>
+    	<month> June </month>
+    	<year> 2014 </year>
+    </release-date>
+    <theater-name>Inox</theater-name>
+    <theater-name>Fortune Cinemas</theater-name>
+    <theater-name>PVR</theater-name>
+    <city> Indore </city>
+    <city> Mhow </city>
+    <city> Rau </city>
+  </movie>
+  <movie>
+  		<code> 17 </code>
+  		<title>Lakshya !</title>
+		<theatre-name>Amanora</theatre-name>
+  </movie>
+</movies>
